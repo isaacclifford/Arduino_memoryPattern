@@ -1,6 +1,6 @@
 ##Summary
 
-This is a multi level memory pattern game created using an Arduino micro controller.
+This is a multi level memory pattern game created using an Arduino microcontroller.
 
 
 ##Features
