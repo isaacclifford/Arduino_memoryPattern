@@ -16,9 +16,9 @@ This is a multi level memory pattern game created using an Arduino microcontroll
 !["Circuit"](https://github.com/isaacclifford/Arduino_memoryPattern/blob/master/img/memPatternCircuit.jpg "Circuit")
 
 
+##References 
 
-
-
+This code implements functions from the (SimpleTimer)[http://playground.arduino.cc/Code/SimpleTimer] Arduino Library.
 
 
 
